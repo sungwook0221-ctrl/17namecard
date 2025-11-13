@@ -36,3 +36,7 @@ body > div > * {border: 1px solid blue;} */
 .direction {margin-bottom: 60px; padding: 0 30px;}
 .direction .title {font-size: 16px; text-align: center; margin-bottom: 50px;}
 .direction .direct_map { height: 400px;}
+
+
+.qrimg {width: 50px; position: absolute; left: 30px ;top: 30px}
+.qrimg img {width: 100%;}
